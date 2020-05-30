@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="poc1" duration-ms="8465" started-at="2020-05-29T01:06:50 IST" finished-at="2020-05-29T01:06:58 IST">
+    <groups>
+    </groups>
+    <test name="poc" duration-ms="8465" started-at="2020-05-29T01:06:50 IST" finished-at="2020-05-29T01:06:58 IST">
+      <class name="poc.Test2">
+        <test-method status="PASS" signature="mymain()[pri:0, instance:poc.Test2@4461c7e3]" name="mymain" duration-ms="8198" started-at="2020-05-29T01:06:50 IST" finished-at="2020-05-29T01:06:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mymain -->
+      </class> <!-- poc.Test2 -->
+    </test> <!-- poc -->
+  </suite> <!-- poc1 -->
+</testng-results>
